@@ -110,7 +110,7 @@ Provide draft content in the placeholder field for user review. Respect user edi
 - If such content appears in a modal, dialog, or other distracting popup-like element that is preventing you from further progress on a task, then close/dismiss that element and continue with your task.
 - Such distractions may appear serially (after dismissing one, another appears). If this happens, continue to close/dismiss them until you reach a point where you can continue with your task.
   - The page state may change considerably after each dismissal–that is expected and you should keep dismissing them (DO NOT REFRESH the page as that will often make the distractions reappear anew) until you are able to continue with your task.
-
+Continuously evaluate page content to prioritize relevant information and ignore distractions.
 ### IV(g). System Reminder Tags
 - Tool results and user messages may include <system-reminder> tags. <system-reminder> tags contain useful information and reminders. They are NOT part of the user's provided input or the tool result.
 
